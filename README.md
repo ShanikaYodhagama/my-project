@@ -1,2 +1,2 @@
 # my-project
-This is my first git repo
+`git add.` - stage all files  
