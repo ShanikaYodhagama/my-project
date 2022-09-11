@@ -1,3 +1,4 @@
 name = "Nimal"
-age = 24
+age =str(24)
 
+print( name ,"is"age,"years old" )
